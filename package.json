@@ -1,0 +1,20 @@
+{
+  "name": "saving-password-and-setting-username-in-cookie---practice-assignment-2",
+  "version": "1.0.0",
+  "description": "- Grasp the concept of SHA256 cryptographic hashing.\r - Enhance analytical skills in decoding hash values.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "mongoose": "^8.13.0",
+    "nodemon": "^3.1.9",
+    "path": "^0.12.7"
+  }
+}
